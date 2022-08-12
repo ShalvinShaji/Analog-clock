@@ -14,11 +14,13 @@
 }
 
 /* Clock styles */
+
 .circle {
     fill: none;
     stroke: rgb(208, 0, 255);
     stroke-width: 9;
     stroke-miterlimit: 10;
+    
     
 }
 
